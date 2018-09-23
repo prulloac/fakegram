@@ -14,5 +14,6 @@ public class NewUserDataDTO {
     @NonNull private String email;
     @NonNull private String password;
     private AddressDTO address;
+    private String biography;
 
 }

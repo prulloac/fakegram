@@ -53,6 +53,7 @@ public class UserMapper {
         user.setUsername(newUserData.getUsername());
         user.setPassword(newUserData.getPassword());
         user.setEmail(newUserData.getEmail());
+        user.setBiography(newUserData.getBiography());
         return user;
     }
 }
