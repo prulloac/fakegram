@@ -34,6 +34,7 @@ Esta api emula de forma básica ciertas funcionalidades de [Instagram](https://w
 - Las fotos subidas pueden contener #hashtags en su descripción
 - Se puede buscar fotos según su id, usuario que la ha subido, ubicación geográgica* y mediante hashtag.
 
+\* Las ubicaciones geográficas se ingresan en el siguiente formato: `lugar, pais`. Ejemplo: `Santiago, Chile`
 ## Estructura del proyecto
 
 Este proyecto posee la siguiente estructura de paquetes:
